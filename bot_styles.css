@@ -1,0 +1,195 @@
+.inbenta-bot__bubble .header__title,
+    .inbenta-bot__chat .header__title {
+      font-family: 'Avenir LT W01_45 Book1475508', sans-serif !important;
+      font-size: 20.5px;
+      font-weight: 300;
+      padding-right: 10px;
+    }
+    .inbenta-bot {
+      font-family: 
+      'Avenir LT W01_45 Book1475508', 'Helvetica Neue', Arial, Helvetica, sans-serif !important;
+    }
+    
+    
+    .inbenta-bot__launcher {
+      background-color: rgb(237, 28, 36) !important;
+      right: 14px !important;
+      bottom: 120px !important;
+      padding: 8px;
+      border-radius: 8px;
+      min-width: 22px;
+    }
+
+    .inbenta-bot__launcher:hover {
+      background-color: rgb(237, 28, 36) !important;
+    }
+
+    .inbenta-bot__launcher__image {
+      background-image: url(https://cookies.alterramtnco.com/bigbear/agent.jpg);
+      width: 44px;
+      height: 44px;
+      margin: 0 5px;
+    }
+
+
+    .inbenta-bot__bubble__header,
+    .inbenta-bot__chat__header {
+      background-color: rgb(237, 28, 36) !important;
+    }
+
+    .inbenta-bot__bubble .messages__message--received .messages__message__avatar,
+    .inbenta-bot__chat .messages__message--received .messages__message__avatar {
+      background-color: rgb(237, 28, 36) !important;
+    }
+
+    .inbenta-bot__bubble .messages__message--sent .messages__message__content,
+    .inbenta-bot__chat .messages__message--sent .messages__message__content {
+      background-color: #ebebeb;
+    }
+
+    .inbenta-bot__bubble .messages__message--received .messages__message__content .inbenta-bot-rating__content__buttons .inbenta-bot-button,
+    .inbenta-bot__chat .messages__message--received .messages__message__content .inbenta-bot-rating__content__buttons .inbenta-bot-button {
+      color: rgb(229, 230, 229)
+    }
+
+    .inbenta-bot-button,
+    .inbenta-bot__chat .messages__message--received .messages__message__content .inbenta-bot-rating__content__buttons .inbenta-bot-button:hover {
+      background-color: rgba(9, 35, 64, 0.2);
+    }
+
+    .inbenta-bot__bubble .footer__form__button,
+    .inbenta-bot__chat .footer__form__button {
+      color: rgb(237, 28, 36) !important;
+    }
+
+    .inbenta-bot a,
+    .inbenta-bot a:active,
+    .inbenta-bot a:focus {
+      color: black;
+      text-decoration: underline;
+    }
+
+    .inbenta-bot a:hover {
+      color: black;
+    }
+
+    .inbenta-bot__bubble .content__open-sidebubble__phrase,
+    .inbenta-bot__chat .content__open-sidebubble__phrase {
+      color: rgb(229, 230, 229)
+    }
+
+    .inbenta-bot__bubble .content__open-sidebubble__icon,
+    .inbenta-bot__chat .content__open-sidebubble__icon {
+      color: rgb(229, 230, 229)
+    }
+
+    .inbenta-bot__bubble .footer__form__button:hover:not([disabled]),
+    .inbenta-bot__chat .footer__form__button:hover:not([disabled]) {
+      color: rgb(237, 28, 36) !important;
+    }
+
+    .inbenta-bot__bubble .content__related__button, .inbenta-bot__chat .content__related__button
+     {
+      color: rgb(237, 28, 36) !important;
+    }
+  
+    .inbenta-bot__chat .content__related__button:hover:not([disabled]) {
+      color: rgb(237, 28, 36) !important;
+      background: rgba(220, 133, 133, 0.16);
+    }
+    
+    .inbenta-bot-button.clicked,
+    .inbenta-bot-button:hover:not([disabled]) {
+      background-color: rgb(229, 230, 229)
+    }
+
+    button.clicked,
+    .inbenta-bot-button:hover:not([disabled]) {
+      background-color: rgb(229, 230, 229)
+    }
+
+    .inbenta-bot__bubble__confirmation .confirmation-box__icon,
+    .inbenta-bot__chat__confirmation .confirmation-box__icon {
+      color: rgb(229, 230, 229)
+    }
+
+    .inbenta-bot p {
+      margin: 0;
+      font-size: 0.9rem;
+    }
+
+    .inbenta-bot__bubble .footer__chat-activity .activity__avatar,
+    .inbenta-bot__chat .footer__chat-activity .activity__avatar {
+      background-color: rgb(229, 230, 229)
+    }
+
+    inbenta-bot__bubble .footer__chat-activity .activity__dot,
+    .inbenta-bot__chat .footer__chat-activity .activity__dot {
+      background: rgb(229, 230, 229)
+    }
+
+    .inbenta .inbenta-bot-icon.inbenta-bot-icon--avatar {
+      content: url(https://cookies.alterramtnco.com/bigbear/bot.jpg);
+      background-position: 80%;
+      width: 40px;
+      height: 20;
+      background-repeat: no-repeat;
+      opacity: 1;
+      overflow: hidden;
+      border-radius: 50%;
+    }
+
+    .inbenta-bot__bubble .content__buttons--multiple-choise .inbenta-bot-button,
+    .inbenta-bot__chat .content__buttons--multiple-choise .inbenta-bot-button {
+      color: rgb(237, 28, 36) !important;
+
+    }
+
+
+
+    .inbenta-bot__bubble .content__buttons--multiple-choise .inbenta-bot-button.clicked,
+    .inbenta-bot__bubble .content__buttons--multiple-choise .inbenta-bot-button:hover:not([disabled]),
+    .inbenta-bot__chat .content__buttons--multiple-choise .inbenta-bot-button.clicked,
+    .inbenta-bot__chat .content__buttons--multiple-choise .inbenta-bot-button:hover:not([disabled]) {
+      color: rgb(237, 28, 36) !important;
+    }
+
+    .inbenta-bot-button:hover:not([disabled]) {
+      background-color: #ddd;
+    }
+
+    .inbenta-bot__bubble .messages__message--sent .messages__message__content, .inbenta-bot__chat .messages__message--sent .messages__message__content {
+      background-color:rgb(229, 230, 229) !important;
+      border-radius: 8px 8px 0 8px;
+      color: #3d3f43;
+  }
+
+
+  .inbenta-bot__bubble .messages__message--system .messages__message__content, .inbenta-bot__chat .messages__message--system .messages__message__content {
+    background-color: rgb(237, 28, 36) !important;
+    color: #fff !important;
+    text-align: center;
+}
+
+.inbenta-bot__bubble .footer__chat-activity .activity__dot, .inbenta-bot__chat .footer__chat-activity .activity__dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 100%;
+  margin-right: 4px;
+  background: rgb(237, 28, 36) !important;
+  animation: typing .6s .3s linear infinite;
+}
+
+.inbenta-bot-button {
+  
+}
+
+.inbenta-bot__bubble__confirmation .confirmation-box__icon, .inbenta-bot__chat__confirmation .confirmation-box__icon {
+  width: 56px;
+  height: 56px;
+  margin: 0 0 16px;
+  border-radius: 100px;
+  background: #f6f6f6;
+  color: rgb(237, 28, 36) !important;
+}
